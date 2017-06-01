@@ -71,4 +71,4 @@ It’s [hard for me to believe all this myself.](http://advice.shinetext.com/art
   js = d.createElement(s); js.id = id; js.async = true;
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
-}(window, document, "script", "pubexchange-jssdk"));</script> 
+}(window, document, "script", "pubexchange-jssdk"));</script>

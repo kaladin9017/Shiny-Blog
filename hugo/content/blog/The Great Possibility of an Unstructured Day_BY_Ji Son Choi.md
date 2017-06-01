@@ -71,4 +71,3 @@ So, there you have it. Your mental health will improve, your general performance
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

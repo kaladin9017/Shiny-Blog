@@ -55,4 +55,3 @@ Need more advice? Send Colleen an email at [vip@shinetext.com ](mailto:vip@shine
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

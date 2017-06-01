@@ -119,4 +119,3 @@ I refer to it often when I’m living in the doubt.
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

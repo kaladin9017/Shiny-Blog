@@ -44,4 +44,3 @@ While the early stages of a company are never easy, it’s thanks to our incredi
 Up next for us? More growth and building on new conversational platforms to reach more people with Shine. Cheers to big things ahead!
 
 <p> - Marah Lidey & Naomi Hirabayashi, co-founders of Shine </p>
-

@@ -84,5 +84,3 @@ Though you may no longer comfortably fit on a swing, you will find chewing gum r
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-
-

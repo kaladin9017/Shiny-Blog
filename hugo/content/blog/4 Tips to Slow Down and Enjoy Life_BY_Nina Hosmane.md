@@ -68,4 +68,3 @@ Slow down and appreciate the day-to-day. Be present to yourself and to others. W
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

@@ -59,6 +59,3 @@ There will be days where you’re not able to do the charity work you’ve plann
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-
-
-

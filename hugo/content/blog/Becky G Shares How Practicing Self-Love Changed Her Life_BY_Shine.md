@@ -67,6 +67,3 @@ __WATCH the music video for "Todo Cambió":__
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-
-
-

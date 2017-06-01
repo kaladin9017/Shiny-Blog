@@ -57,5 +57,3 @@ __The Good News__:  The more we practice tapping into and trusting our gut insti
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-
-

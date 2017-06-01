@@ -92,4 +92,3 @@ What are your favorite productivity hacks? Tweet @shinetext and let us know!
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

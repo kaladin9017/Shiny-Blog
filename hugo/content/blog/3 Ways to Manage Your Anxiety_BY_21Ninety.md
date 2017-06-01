@@ -76,5 +76,3 @@ I know that my anxiety will likely come and go throughout my life. However, goin
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-
-

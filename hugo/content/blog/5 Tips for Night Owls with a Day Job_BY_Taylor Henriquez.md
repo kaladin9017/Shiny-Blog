@@ -59,5 +59,3 @@ Mornings aren’t so dreadful when you’ve prepared the night before. For me, t
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-
-

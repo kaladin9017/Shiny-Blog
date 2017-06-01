@@ -96,4 +96,3 @@ Use the same journal every day to capture your thoughts and let your morning be 
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

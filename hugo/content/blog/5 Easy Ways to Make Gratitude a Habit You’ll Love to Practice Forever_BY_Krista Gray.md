@@ -75,5 +75,3 @@ In what will feel like little to no time at all, the stuff you need to think abo
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-
-

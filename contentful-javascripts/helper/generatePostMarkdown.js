@@ -9,8 +9,9 @@ const fs = require('fs');
 function generatePostMarkdown(author, title, description, tags, categories, draft, type, date, body) {
 
   // Escape new lines and quotes for markdown format
-  let cleanTitle = title.replace(/\"/g,'\\"')
-  let cleanDescription =  description.replace(/\"/g,'\\"')
+  let cleanTitle = title.replace(/\"/g,'\\"');
+  let cleanDescription =  description.replace(/\"/g,'\\"');
+  let cleanBody = body.trim();
 
   const template = `+++
   date = "${date}"
@@ -19,7 +20,7 @@ function generatePostMarkdown(author, title, description, tags, categories, draf
   tags = ["example", "Lorem Ipsum"]
 +++\n\n
 
-${body}
+${cleanBody}
 `
   // Write markdown files to blog folder for Hugo to build html pages
 

@@ -82,5 +82,3 @@ Schedule some time to get lost in an activity that you love and enjoy. Set bound
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-
-

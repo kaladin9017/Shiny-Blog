@@ -57,5 +57,3 @@ While your day feels like everyone and everything is in the driver’s seat but 
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-
-

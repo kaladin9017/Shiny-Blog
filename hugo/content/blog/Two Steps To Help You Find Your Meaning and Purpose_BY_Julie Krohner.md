@@ -64,4 +64,3 @@ The vow brought an immediate change to what I was 'putting out there.' I relaxed
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

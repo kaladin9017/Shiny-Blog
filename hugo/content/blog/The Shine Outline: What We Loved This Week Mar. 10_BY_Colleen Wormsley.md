@@ -69,13 +69,3 @@ Before you head into your weekend, highly recommend getting your giggle on over 
  js.src = "//main.pubexchange.com/loader.min.js";
  pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-
-
-
-
-
-
-
-
-
-

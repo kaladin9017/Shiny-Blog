@@ -70,4 +70,3 @@ In honor of St. Patrick’s Day, [read what Irish politicians think of Beyoncé.
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

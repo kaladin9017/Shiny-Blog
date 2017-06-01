@@ -54,4 +54,3 @@ This piece originally appeared on Darling Magazine, by Janelle Whitaker.
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

@@ -107,4 +107,3 @@ The egocentric survival instinct to amass as much material wealth at any cost is
 This may come as a surprise, but someday you and everyone you know will die; and when you do, you won’t be able to take your possessions with you. Your time and energy are too precious to waste on impressing other people. [The number one regret people have on their death bed is](http://www.huffingtonpost.com/2013/08/03/top-5-regrets-of-the-dying_n_3640593.html), “I wish I’d had the courage to live a life true to myself, not the life others expected of me.” In the end, you are only truly competing with yourself. Embrace your current circumstances and embrace your self. 
 
 When you conquer yourself, all those external pleasantries will follow, but they will simply be the cherry on top of your already delicious sundae.
-

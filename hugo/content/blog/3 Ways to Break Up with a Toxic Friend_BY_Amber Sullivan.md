@@ -59,4 +59,3 @@ __READ NEXT: [3 Steps to Becoming Wisely Selfish](http://advice.shinetext.com/ar
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

@@ -95,5 +95,3 @@ I hope you’re feeling a little more in control after completing this list! If 
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-
-

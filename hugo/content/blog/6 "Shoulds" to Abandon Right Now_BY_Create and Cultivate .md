@@ -69,4 +69,3 @@ The point is, it's never too late to be a cowboy, or a cowgirl. All you need are
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

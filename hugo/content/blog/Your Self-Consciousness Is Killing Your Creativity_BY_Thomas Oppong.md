@@ -74,4 +74,3 @@ This article originally appeared on [Inc](http://www.inc.com/thomas-oppong/your-
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

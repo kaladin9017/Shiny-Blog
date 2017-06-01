@@ -91,4 +91,3 @@ We asked the Shine Squad ([more on that here](http://www.shinetext.com/squad)!) 
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

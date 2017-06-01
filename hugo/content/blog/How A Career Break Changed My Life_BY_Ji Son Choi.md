@@ -73,4 +73,3 @@ We can try to sum up the value of a life break, qualitatively and quantitatively
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-

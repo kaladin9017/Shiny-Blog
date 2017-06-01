@@ -7,7 +7,6 @@
 
 
 
-
 <center> *Five Science-Backed Strategies to Build Resilience orignially appeared on [Greater Good](http://greatergood.berkeley.edu/), the online magazine of the Greater Good Science Center at UC Berkeley.* </center>
 
 <span class="dropcap">A</span> mentor of mine recently passed away, and I was heartbroken—so I tried my best to avoid thinking about it. I didn’t even mention it to my family because I didn’t want those sad feelings to resurface.

@@ -56,4 +56,3 @@ __Text BOLD to 75985 to send a free e-card to a bold woman in your life for #Int
   js.src = "//main.pubexchange.com/loader.min.js";
   pjs.parentNode.insertBefore(js, pjs);
 }(window, document, "script", "pubexchange-jssdk"));</script>
-
