@@ -18,28 +18,20 @@ const client = contentful.createClient({
   accessToken: ACCESS_TOKEN
 });
 
-console.log(chalk.green.bold('\nWelcome to the Contentful JS Boilerplate\n'))
-console.log('This is a simplified example to demonstrate the usage of the Contentful CDA\n')
+console.log(chalk.green.bold('\nQuering Contentful for article and author information\n'))
+console.log('This is a simplified version of the query\n')
+
 client.getEntries({ content_type: 'article' })
 .then(function (entries) {
   entries.items.forEach(entry => {
-    let type = entry.sys.contentType.sys.id === 'article' ? 'post' : '';
+    // Grab & format all revlevant information from query to generate blog post Markdown
+    let type = entry.sys.contentType.sys.id;
     let author = entry.fields.author.fields.name;
     let { title, body, date, category, tags,
       slug, description } = entry.fields;
-    date = moment(date).format();
+    date = moment(date).format(); // format for markdown
+
+      // Create markdown
       generatePostMarkdown(author, title, description, tags, [category], false, type, date, body)
   });
 })
-
-// entry.sys.contentType.sys.id - type
-// entry.fields.title - article - title
-// entry.fields.headerPhoto - ???
-// entry.fields.body - Markdown
-// entry.fields.date - Date created
-// entry.fields.author.fields.name - ?? getter
-// entry.fields.category - category single
-// entry.fields.tags - array of tags
-// entry.fields.slug - slug
-// entry.fields.description - description
-// entry.fields.promoted - ???
