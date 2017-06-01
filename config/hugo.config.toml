@@ -1,0 +1,59 @@
+baseURL = "/"
+title = "Shine"
+
+contentdir = "hugo/content"
+dataDir = "hugo/data"
+layoutdir = "hugo/layouts"
+themesdir = "hugo/themes"
+archetypedir = "hugo/archetype"
+destination = "public"
+publishdir = "public"
+staticdir = "static"
+theme =  ""
+
+googleAnalytics = ""
+Paginate = 15
+
+[params]
+  description = "Minimalist Shine theme for Hugo"
+  # dateFormat = "2006, Jan 2"
+  copyrightStartYear = "2017"
+
+[params.opengraph]
+  [params.opengraph.facebook]
+    admins = ""
+    appid = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  facebook = ""
+
+[author]
+  name = "Chris"
+
+[author.social]
+  facebook = ""
+  github = ""
+  twitter = ""
+
+[permalinks]
+  page = "/:slug/"
+
+# [[menu.main]] adds new menu
+#   name = "Hugo Themes"
+#   weight = -70
+#   identifier = "gohugo"
+#   url = "https://themes.gohugo.io"
+
+# Language Configuration
+defaultContentLanguage = "en"
+
+[languages]
+  # edit this block for your own language
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
