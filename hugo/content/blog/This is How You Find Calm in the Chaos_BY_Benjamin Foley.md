@@ -2,11 +2,7 @@
   date = "2017-05-02T10:00:00-04:00"
   title = "This is How You Find Calm in the Chaos"
   categories = ["Life"]
-  tags = "peace,calm ,chaos,mindfulness"
-  author = "Benjamin Foley"
-  description = "How to find your peace."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

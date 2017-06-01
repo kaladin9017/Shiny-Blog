@@ -2,11 +2,7 @@
   date = "2017-03-12T13:00:00-04:00"
   title = "4 Tips to Slow Down and Enjoy Life"
   categories = ["Life"]
-  tags = "Shine Squad,slow down,advice,enjoy life"
-  author = "Nina Hosmane"
-  description = "Shine Squad member Nina shares how she slows down and enjoys life."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

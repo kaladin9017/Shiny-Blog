@@ -2,11 +2,7 @@
   date = "2017-05-15T06:00:00-04:00"
   title = "Six Surprising Benefits of Curiosity"
   categories = ["Life"]
-  tags = "novelty,fascination,curiosity,ask questions"
-  author = "Emily Campbell"
-  description = "Why we're better off when left with more questions than answers."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

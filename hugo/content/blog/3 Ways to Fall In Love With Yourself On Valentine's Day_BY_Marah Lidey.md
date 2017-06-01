@@ -2,11 +2,7 @@
   date = "2017-02-14T08:00:00-05:00"
   title = "3 Ways to Fall In Love With Yourself On Valentine's Day"
   categories = ["Life"]
-  tags = "self-love,galentines,affection,gratitude "
-  author = "Marah Lidey"
-  description = "This Valentine's Day, get booed up. With yourself."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

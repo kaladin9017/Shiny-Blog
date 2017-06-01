@@ -2,11 +2,7 @@
   date = "2016-10-28T07:00:00-04:00"
   title = "The 4 Rs You Need to Recover From a Mistake"
   categories = ["Work"]
-  tags = "failure,mistake,recovery,bounce back"
-  author = "Create and Cultivate "
-  description = "Failure is a part of the flow - here's how to go with it."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

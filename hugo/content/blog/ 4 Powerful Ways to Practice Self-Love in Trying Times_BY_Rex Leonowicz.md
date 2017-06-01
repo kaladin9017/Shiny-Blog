@@ -2,11 +2,7 @@
   date = "2017-04-06T11:00:00-04:00"
   title = " 4 Powerful Ways to Practice Self-Love in Trying Times"
   categories = ["life"]
-  tags = "self-love,trying times,advice,self-care"
-  author = "Rex Leonowicz"
-  description = "Follow these tips for 4 powerful ways will help you practice self-love in trying times."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

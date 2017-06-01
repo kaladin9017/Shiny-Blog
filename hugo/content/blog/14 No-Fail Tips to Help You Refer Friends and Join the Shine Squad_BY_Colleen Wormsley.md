@@ -2,11 +2,7 @@
   date = "2017-04-04T13:00:00-04:00"
   title = "14 No-Fail Tips to Help You Refer Friends and Join the Shine Squad"
   categories = ["Life"]
-  tags = "Shine Squad,Refer,Advice,Tips"
-  author = "Colleen Wormsley"
-  description = "Use these tips to help refer friends to join the Shine Squad."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

@@ -2,11 +2,7 @@
   date = "2017-02-02T08:00:00-05:00"
   title = "Your Self-Consciousness Is Killing Your Creativity"
   categories = ["Life"]
-  tags = "creative,self-expression ,confidence,imagination"
-  author = "Thomas Oppong"
-  description = "How to not freeze-up next time you feel the creative urge."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

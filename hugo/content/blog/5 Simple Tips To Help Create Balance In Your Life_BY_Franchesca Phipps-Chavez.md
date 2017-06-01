@@ -2,11 +2,7 @@
   date = "2017-02-27T13:00:00-05:00"
   title = "5 Simple Tips To Help Create Balance In Your Life"
   categories = ["Life"]
-  tags = "help,create,balance,life"
-  author = "Franchesca Phipps-Chavez"
-  description = "It can be hard to juggle it all. These 5 simple tips will help you create more balance in your life."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

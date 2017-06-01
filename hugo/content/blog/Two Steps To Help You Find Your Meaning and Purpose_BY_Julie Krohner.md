@@ -2,11 +2,7 @@
   date = "2017-04-26T14:00:00-04:00"
   title = "Two Steps To Help You Find Your Meaning and Purpose"
   categories = ["Life"]
-  tags = "meaning,purpose,personal,professional,search"
-  author = "Julie Krohner"
-  description = "Julie Krohner shares her two steps that helped her find her meaning and purpose."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

@@ -2,11 +2,7 @@
   date = "2016-09-14T08:00:00-04:00"
   title = "4 Ways To Diffuse Everyday Anxiety"
   categories = ["life"]
-  tags = "anxiety,stress,fear,worry,relax"
-  author = "Maya Nahra"
-  description = "We all get the jitters. Here's how to take a chill pill."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

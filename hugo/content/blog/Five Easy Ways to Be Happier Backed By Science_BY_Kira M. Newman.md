@@ -2,11 +2,7 @@
   date = "2017-03-06T13:00:00-05:00"
   title = "Five Easy Ways to Be Happier Backed By Science"
   categories = ["Life"]
-  tags = "happiness,science,advice,purpose"
-  author = "Kira M. Newman"
-  description = "These easy tips backed by science will help you increase your happiness."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

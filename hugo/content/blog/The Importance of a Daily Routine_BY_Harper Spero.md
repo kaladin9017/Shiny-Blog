@@ -2,11 +2,7 @@
   date = "2016-08-23T07:30:00-04:00"
   title = "The Importance of a Daily Routine"
   categories = ["Life"]
-  tags = "productivity,exercise ,health,routine,bedtime,morning"
-  author = "Harper Spero"
-  description = "These tips will help you keep to a daily routine."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

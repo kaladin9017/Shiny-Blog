@@ -2,11 +2,7 @@
   date = "2017-01-18T07:00:00-05:00"
   title = "Kristen Bell’s 5 Tips for Self-Care in 2017"
   categories = ["life"]
-  tags = "Kristen Bell,self-care,tips,compassion"
-  author = "Kristen Bell"
-  description = "Kristen Bell shares her simple tips to practice self-care this year."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

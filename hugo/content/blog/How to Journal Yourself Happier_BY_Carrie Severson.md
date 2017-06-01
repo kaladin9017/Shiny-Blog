@@ -2,11 +2,7 @@
   date = "2016-12-14T08:00:00-05:00"
   title = "How to Journal Yourself Happier"
   categories = ["Life"]
-  tags = "journal,write,binge thinking"
-  author = "Carrie Severson"
-  description = "How writing it out can help us dig deeper on our feelings."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

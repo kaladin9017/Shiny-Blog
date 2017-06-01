@@ -2,11 +2,7 @@
   date = "2017-01-24T10:00:00-05:00"
   title = "3 Ways to Break Up with a Toxic Friend"
   categories = ["life"]
-  tags = "toxic,friend,breakup"
-  author = "Amber Sullivan"
-  description = "Here are three simple tips when your friendship has reached the point of no return."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

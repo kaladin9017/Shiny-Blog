@@ -2,11 +2,7 @@
   date = "2017-03-07T22:00:00-05:00"
   title = "We Asked Real Women What \"Be Bold for Change\" Means to Them"
   categories = ["life"]
-  tags = "quotes,real women,women,day"
-  author = "Shine"
-  description = "In honor of International Women's Day, we asked members of the Shine Squad to share what \"Be Bold for Change\" means to them."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

@@ -2,11 +2,7 @@
   date = "2017-02-27T13:00:00-05:00"
   title = "How To Build Relationships With The Right Mentors"
   categories = ["work"]
-  tags = "mentor,mentorship,build,relationships"
-  author = "Brit Fitzpatrick"
-  description = "Brit Fitzpatrick gives tips on how to find the right mentors and build relationships that will be valuable."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

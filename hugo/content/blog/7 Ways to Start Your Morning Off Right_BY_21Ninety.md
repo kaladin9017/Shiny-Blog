@@ -2,11 +2,7 @@
   date = "2017-04-03T13:00:00-04:00"
   title = "7 Ways to Start Your Morning Off Right"
   categories = ["Life"]
-  tags = "morning,productivity,advice,routine"
-  author = "21Ninety"
-  description = "These tips will help you start the day off on the right foot."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

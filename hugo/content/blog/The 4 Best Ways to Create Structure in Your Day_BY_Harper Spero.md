@@ -2,11 +2,7 @@
   date = "2017-01-26T12:10:00-05:00"
   title = "The 4 Best Ways to Create Structure in Your Day"
   categories = ["work"]
-  tags = "structure,routine,self-care,time management "
-  author = "Harper Spero"
-  description = "4 simple tips to help you create structure and work smarter, not longer."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

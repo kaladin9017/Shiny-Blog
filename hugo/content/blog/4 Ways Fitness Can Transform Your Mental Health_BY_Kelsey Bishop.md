@@ -2,11 +2,7 @@
   date = "2016-08-23T07:10:00-04:00"
   title = "4 Ways Fitness Can Transform Your Mental Health"
   categories = ["Life"]
-  tags = "self-care,intersectionality,diversity,community"
-  author = "Kelsey Bishop"
-  description = ""
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

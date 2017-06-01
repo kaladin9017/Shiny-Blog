@@ -2,11 +2,7 @@
   date = "2017-03-21T13:00:00-04:00"
   title = "How A Career Break Changed My Life"
   categories = ["Life"]
-  tags = "career break,sabbatical,advice,changed my life"
-  author = "Ji Son Choi"
-  description = "Learnings and takeaways after taking a career break."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

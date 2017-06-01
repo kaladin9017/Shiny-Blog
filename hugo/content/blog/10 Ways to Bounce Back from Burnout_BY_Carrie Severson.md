@@ -2,11 +2,7 @@
   date = "2016-09-22T00:00:00-04:00"
   title = "10 Ways to Bounce Back from Burnout"
   categories = ["Work"]
-  tags = "burnout,stress,exhaustion,recharge,energy"
-  author = "Carrie Severson"
-  description = "You got to know when to call it - and give yourself time to recharge."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

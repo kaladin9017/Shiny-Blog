@@ -2,11 +2,7 @@
   date = "2016-12-06T08:00:00-05:00"
   title = "How a \"Life Break\" Can Get You Unstuck"
   categories = ["Life"]
-  tags = "break,vacation,burnout,rut,sabbatical"
-  author = "Ji Son Choi"
-  description = "How getting physical space can give you a mental refresh."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

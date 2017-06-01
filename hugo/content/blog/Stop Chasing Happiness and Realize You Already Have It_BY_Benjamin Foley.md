@@ -2,11 +2,7 @@
   date = "2017-05-19T08:00:00-04:00"
   title = "Stop Chasing Happiness and Realize You Already Have It"
   categories = ["Life"]
-  tags = "satisfaction ,contentment,joy"
-  author = "Benjamin Foley"
-  description = "How to know when you've already got it pretty good."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

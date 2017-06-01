@@ -2,11 +2,7 @@
   date = "2017-02-08T11:00:00-05:00"
   title = "The 5 Steps To Surviving A No"
   categories = ["Work"]
-  tags = "rejection,advice,improvement,no"
-  author = "Create and Cultivate "
-  description = "Create and Cultivate explores how to overcome rejection and find peace by looking towards the future and what is to come."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

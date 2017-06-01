@@ -2,11 +2,7 @@
   date = "2017-02-09T12:00:00-05:00"
   title = "Grace Helbig’s 5 Tips to Help You Spark Your Creativity"
   categories = ["Life"]
-  tags = "Grace Helbig,creativity,tips,advice"
-  author = "Grace Helbig"
-  description = "Comedian, actress, and vlogger  Grace Helbig shares her 5 tips to help spark your creativity."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

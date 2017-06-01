@@ -2,11 +2,7 @@
   date = "2016-12-01T08:00:00-05:00"
   title = "Mind the Gap"
   categories = ["Work"]
-  tags = "confidence gap,self-esteem,pride"
-  author = "Alissa Ponchione"
-  description = "Refreshing 'fake it til you make it.'"
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

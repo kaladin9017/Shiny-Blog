@@ -2,11 +2,7 @@
   date = "2017-04-13T13:00:00-04:00"
   title = "3 Ways to Manage Your Anxiety"
   categories = ["Life"]
-  tags = "anxiety,manage,ways,advice"
-  author = "21Ninety"
-  description = "These tips will show you 3 ways to manage your anxiety."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

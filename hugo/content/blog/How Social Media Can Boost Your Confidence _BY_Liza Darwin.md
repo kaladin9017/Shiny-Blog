@@ -2,11 +2,7 @@
   date = "2016-09-12T08:00:00-04:00"
   title = "How Social Media Can Boost Your Confidence "
   categories = ["Life"]
-  tags = "social media,selfie,confidence,happiness,body positivity"
-  author = "Liza Darwin"
-  description = "Advice on maintaining confidence between all the likes and selfies."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

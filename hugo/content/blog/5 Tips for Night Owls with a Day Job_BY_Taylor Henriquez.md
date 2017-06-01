@@ -2,11 +2,7 @@
   date = "2016-08-23T07:40:00-04:00"
   title = "5 Tips for Night Owls with a Day Job"
   categories = ["Work"]
-  tags = "productivity,night owl,work,creativity"
-  author = "Taylor Henriquez"
-  description = ""
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

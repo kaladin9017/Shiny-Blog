@@ -2,11 +2,7 @@
   date = "2016-09-21T10:00:00-04:00"
   title = "How Running Became My Best Therapy"
   categories = ["life"]
-  tags = "exercise ,therapy,running,anxiety,relief "
-  author = "Casey Lewis"
-  description = "Running isn't always about getting jacked calves.  Read up on how exercise can be a form of meditation."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

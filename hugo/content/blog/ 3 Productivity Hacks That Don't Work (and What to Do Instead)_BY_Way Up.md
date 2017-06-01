@@ -2,11 +2,7 @@
   date = "2017-03-16T13:00:00-04:00"
   title = " 3 Productivity Hacks That Don't Work (and What to Do Instead)"
   categories = ["Work"]
-  tags = "Productivity ,Advice,Hacks,Tips"
-  author = "Way Up"
-  description = "Three common productivity tips and what you should do instead."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

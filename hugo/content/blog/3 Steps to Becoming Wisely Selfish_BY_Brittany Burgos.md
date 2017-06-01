@@ -2,11 +2,7 @@
   date = "2017-01-16T15:30:00-05:00"
   title = "3 Steps to Becoming Wisely Selfish"
   categories = ["life"]
-  tags = "volunteer,charity,happiness,altruism"
-  author = "Brittany Burgos"
-  description = "Three simple steps to help bring you the happiness you deserve."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

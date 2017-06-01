@@ -2,11 +2,7 @@
   date = "2017-04-04T12:00:00-04:00"
   title = "32 Inspiring Quotes That Will Motivate You and Get You Through The Week"
   categories = ["life"]
-  tags = "inspiring quotes,quotes,motivation,motivational quotes"
-  author = "Shine"
-  description = "These 32 inspiring quotes will help motivate you to get through the week."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

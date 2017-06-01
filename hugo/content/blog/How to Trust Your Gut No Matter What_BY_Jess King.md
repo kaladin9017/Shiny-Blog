@@ -2,11 +2,7 @@
   date = "2016-08-23T08:20:00-04:00"
   title = "How to Trust Your Gut No Matter What"
   categories = ["Life"]
-  tags = "happiness,intuition ,trust,instinct,decisions"
-  author = "Jess King"
-  description = "Trusting your gut doesn't mean ignoring reason; it just means allowing yourself access to more information before making a decision."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

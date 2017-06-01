@@ -2,11 +2,7 @@
   date = "2016-08-23T23:00:00-04:00"
   title = "How to Find Wisdom in Feeling Worthless"
   categories = ["LIFE"]
-  tags = "worth,self-love,wisdom,love,approval,acceptance"
-  author = "Alana Helapitage"
-  description = "How to recognize when a belief in your own worthlessness may be harming you and your relationships."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

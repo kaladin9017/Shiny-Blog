@@ -2,11 +2,7 @@
   date = "2017-04-10T14:00:00-04:00"
   title = "4 Ways You Can Make An Impact on a Stranger's Life"
   categories = ["Life"]
-  tags = "advice,kindness,impact,stranger"
-  author = "Kind Campaign"
-  description = "These 4 ways you can make an impact on a stranger's life will help make someone else's day."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

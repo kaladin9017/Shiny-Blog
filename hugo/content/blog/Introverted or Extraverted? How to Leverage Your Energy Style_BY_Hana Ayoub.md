@@ -2,11 +2,7 @@
   date = "2016-09-07T11:00:00-04:00"
   title = "Introverted or Extraverted? How to Leverage Your Energy Style"
   categories = ["LIFE"]
-  tags = "energy,happiness,introvert,extravert,susan cain "
-  author = "Hana Ayoub"
-  description = "Structuring your day around where you get your energy can mean everything."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

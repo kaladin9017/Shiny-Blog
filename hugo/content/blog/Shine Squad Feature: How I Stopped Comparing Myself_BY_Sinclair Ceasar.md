@@ -2,11 +2,7 @@
   date = "2017-02-23T13:00:00-05:00"
   title = "Shine Squad Feature: How I Stopped Comparing Myself"
   categories = ["Life"]
-  tags = "enough,advice,potential,appreciate"
-  author = "Sinclair Ceasar"
-  description = "Sinclair Ceasar shares why you are enough already."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

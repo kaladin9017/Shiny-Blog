@@ -2,11 +2,7 @@
   date = "2017-01-03T08:00:00-05:00"
   title = "Why 80% of New Year's Resolutions Fail"
   categories = ["Life"]
-  tags = "new year's resolutions,goals,compassion"
-  author = "Marah Lidey"
-  description = "The secret sauce to crushing your goals."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

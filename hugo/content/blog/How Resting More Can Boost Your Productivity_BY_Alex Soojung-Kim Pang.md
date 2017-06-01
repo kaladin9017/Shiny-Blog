@@ -2,11 +2,7 @@
   date = "2017-05-17T08:00:00-04:00"
   title = "How Resting More Can Boost Your Productivity"
   categories = ["Life"]
-  tags = "rest,productivity ,napping"
-  author = "Alex Soojung-Kim Pang"
-  description = "Here are five ways to incorporate more rest and rejuvenation into your work day."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

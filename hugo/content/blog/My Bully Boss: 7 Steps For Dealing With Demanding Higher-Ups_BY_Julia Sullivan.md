@@ -2,11 +2,7 @@
   date = "2016-08-23T08:00:00-04:00"
   title = "My Bully Boss: 7 Steps For Dealing With Demanding Higher-Ups"
   categories = ["Work"]
-  tags = "manager,toxic boss,negativity ,advocate "
-  author = "Julia Sullivan"
-  description = ""
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

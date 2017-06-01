@@ -2,11 +2,7 @@
   date = "2016-10-04T08:00:00-04:00"
   title = "5 Productivity Hacks to Get Your 'Me-Time' Back"
   categories = ["Work"]
-  tags = "productivity ,time,email,busy,distraction"
-  author = "Asha Dahya"
-  description = "Getting efficient with work time can allow for some really inefficient down time. :)"
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

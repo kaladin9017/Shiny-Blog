@@ -2,11 +2,7 @@
   date = "2016-10-18T07:00:00-04:00"
   title = "10 Habits for a Blissful Morning, Every Morning"
   categories = ["Life"]
-  tags = "happiness,morning,habits,wake up"
-  author = "Create and Cultivate "
-  description = "Set your day up for success with a feel-good morning."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

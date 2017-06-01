@@ -2,11 +2,7 @@
   date = "2016-08-23T08:10:00-04:00"
   title = "3 Things You Should Know About Intersectionality and Self-Care"
   categories = ["Life"]
-  tags = "self-care,intersectionality,diversity,community"
-  author = "Rex Leonowicz"
-  description = ""
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

@@ -2,11 +2,7 @@
   date = "2017-05-19T14:00:00-04:00"
   title = "Why I’m Speaking Out About My Mental Health Journey"
   categories = ["life"]
-  tags = "mental health,therapy,mental health journey,mental health awareness month"
-  author = "Sinclair Ceasar"
-  description = "While my scars are unique, they're not bad. I'm not alone. Talking about my mental health journey has shown me that there are so many who struggle like I do."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

@@ -2,11 +2,7 @@
   date = "2017-05-02T00:00:00-04:00"
   title = "Do Mixed Emotions Make Life More Meaningful?"
   categories = ["Life"]
-  tags = "conflicting emotions,mixed feelings ,confused,meaning"
-  author = "Kira M. Newman"
-  description = "Can't decide how you feel about something? We've got good news."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

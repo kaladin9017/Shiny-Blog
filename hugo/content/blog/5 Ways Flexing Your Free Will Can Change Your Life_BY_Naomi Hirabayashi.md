@@ -2,11 +2,7 @@
   date = "2017-02-23T08:00:00-05:00"
   title = "5 Ways Flexing Your Free Will Can Change Your Life"
   categories = ["Life"]
-  tags = "free will,control,big choice"
-  author = "Naomi Hirabayashi"
-  description = "How reminding yourself 'I've got the power!' can help you own your choices."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

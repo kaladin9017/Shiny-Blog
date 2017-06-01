@@ -2,11 +2,7 @@
   date = "2017-03-30T12:00:00-04:00"
   title = "The Secret to Only Doing Things You Actually Want to Do"
   categories = ["Life"]
-  tags = "Advice,Life Hacks,To Do ,Joy"
-  author = "Christine Carter, Ph.D"
-  description = "How to shorten your to-do list and feel more motivated to tackle it, all at once."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

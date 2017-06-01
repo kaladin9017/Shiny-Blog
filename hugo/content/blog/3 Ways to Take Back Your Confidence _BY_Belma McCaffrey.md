@@ -2,11 +2,7 @@
   date = "2016-09-08T09:00:00-04:00"
   title = "3 Ways to Take Back Your Confidence "
   categories = ["Life"]
-  tags = "confidence,belief ,faith,trust,ability"
-  author = "Belma McCaffrey"
-  description = "Confidence comes from belief in your abilities. Learn how to have a little faith."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

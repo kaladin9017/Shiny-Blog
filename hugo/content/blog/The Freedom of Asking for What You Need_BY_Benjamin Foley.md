@@ -2,11 +2,7 @@
   date = "2017-05-09T08:30:00-04:00"
   title = "The Freedom of Asking for What You Need"
   categories = ["life"]
-  tags = "speak up,voice your concerns,say what you need"
-  author = "Benjamin Foley"
-  description = "How speaking up can change our lives."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

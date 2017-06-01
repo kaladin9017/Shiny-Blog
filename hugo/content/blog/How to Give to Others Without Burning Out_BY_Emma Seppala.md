@@ -2,11 +2,7 @@
   date = "2017-05-12T08:00:00-04:00"
   title = "How to Give to Others Without Burning Out"
   categories = ["Life"]
-  tags = "Generosity burnout,givers and takers,givers burnout"
-  author = "Emma Seppala"
-  description = "How to give from your overflow."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

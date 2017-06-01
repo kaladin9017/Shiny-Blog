@@ -2,11 +2,7 @@
   date = "2017-02-08T11:00:00-05:00"
   title = "The Great Possibility of an Unstructured Day"
   categories = ["life"]
-  tags = "break,free time,advice,unstructured "
-  author = "Ji Son Choi"
-  description = "Five reasons why a day without an extensive to-do list can actually be a boost for any self-professing overachiever."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

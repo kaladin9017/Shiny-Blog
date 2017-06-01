@@ -2,11 +2,7 @@
   date = "2017-03-27T08:00:00-04:00"
   title = "How To Spring Clean Your Whole Life"
   categories = ["Life"]
-  tags = "refresh,renew,spring clean"
-  author = "Uzy Igweatu"
-  description = "Out with the old, in with the...nothing?"
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

@@ -2,11 +2,7 @@
   date = "2017-01-31T13:00:00-05:00"
   title = "Katherine McNamara's 5 Simple Tips to Help You Be More Present"
   categories = ["Life"]
-  tags = "Katherine McNamara,joy,tips,present"
-  author = "Katherine McNamara"
-  description = "Katherine McNamara, the star of Freeform's Shadowhunters, shares her tips to help you be more present and joyful."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

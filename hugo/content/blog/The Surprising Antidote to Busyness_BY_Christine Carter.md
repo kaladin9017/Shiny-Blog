@@ -2,11 +2,7 @@
   date = "2017-04-16T08:00:00-04:00"
   title = "The Surprising Antidote to Busyness"
   categories = ["Work"]
-  tags = "busy,productivity ,create ritual"
-  author = "Christine Carter"
-  description = "Don't sleep on these tricks to beat the busy vibes you feel during the week."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

@@ -2,11 +2,7 @@
   date = "2017-03-07T08:00:00-05:00"
   title = "The Gorgeous Reality of Not Being Well-Liked by Everyone"
   categories = ["Life"]
-  tags = "likable ,validation,acceptance"
-  author = "Jordan Bates"
-  description = "How to get over the idea that everyone will like you."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

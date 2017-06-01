@@ -2,11 +2,7 @@
   date = "2016-08-23T08:30:00-04:00"
   title = "3 Ways to Get More Out of Your Daily Commute"
   categories = ["Work"]
-  tags = "commute ,happiness,podcast,productivity"
-  author = "Erika Velazquez Alpern"
-  description = "The 3 ways to make the dreaded commute, productive."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

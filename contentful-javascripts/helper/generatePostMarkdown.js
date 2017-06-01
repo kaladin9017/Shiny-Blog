@@ -7,11 +7,7 @@ function generatePostMarkdown(author, title, description, tags, categories, draf
   date = "${date}"
   title = "${cleanTitle}"
   categories = ["${categories}"]
-  tags = "${tags}"
-  author = "${author}"
-  description = "${cleanDescription.trim()}"
-  draft = ${draft}
-  type = "${type}"
+  tags = ["example", "Lorem Ipsum"]
 +++\n\n
 
 ${body}

@@ -2,11 +2,7 @@
   date = "2016-09-05T11:00:00-04:00"
   title = "How Eliminating One Word From My Vocabulary Changed Everything"
   categories = ["LIFE"]
-  tags = "should ,guilt,appreciation,gratitude ,goals"
-  author = "Erin Patterson"
-  description = "Learn how nixing this word can make you more grateful, happy and effective."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

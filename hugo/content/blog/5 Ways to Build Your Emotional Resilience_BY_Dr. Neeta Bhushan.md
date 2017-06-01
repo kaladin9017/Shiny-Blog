@@ -2,11 +2,7 @@
   date = "2017-05-17T13:00:00-04:00"
   title = "5 Ways to Build Your Emotional Resilience"
   categories = ["Life"]
-  tags = "emotional resilience ,gratitude,self-care,grit"
-  author = "Dr. Neeta Bhushan"
-  description = "Emotional resilience and GRIT is a necessary ingredient of success."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

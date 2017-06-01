@@ -2,11 +2,7 @@
   date = "2017-04-20T08:00:00-04:00"
   title = "Be Bored, I Dare You"
   categories = ["Life"]
-  tags = "mindfulness ,boredom ,productivity ,daydream"
-  author = "Benjamin Foley"
-  description = "Benjamin Foley says his secret to being mindfully bored."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

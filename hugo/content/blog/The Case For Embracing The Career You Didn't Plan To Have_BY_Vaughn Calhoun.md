@@ -2,11 +2,7 @@
   date = "2016-08-31T08:00:00-04:00"
   title = "The Case For Embracing The Career You Didn't Plan To Have"
   categories = ["Work"]
-  tags = "career,uncertainty,decisions,change,risk"
-  author = "Vaughn Calhoun"
-  description = "Sometimes what we want isn't always what we end up needing. Here's how to embrace life's curve balls."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

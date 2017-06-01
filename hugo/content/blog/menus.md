@@ -7,7 +7,7 @@ draft = true
 
 +++
 
-Minimo has two menus.
+Two menus avaliable.
 
 1. Main Menu
 2. Social Menu
@@ -51,4 +51,4 @@ Social menu is located at the footer of the site.
 
 Use the `[author.social]` variables in the site's configuration for adding your social profiles.
 
-You only have to add your usernames. Minimo will take care of the rest.
+You only have to add your usernames.

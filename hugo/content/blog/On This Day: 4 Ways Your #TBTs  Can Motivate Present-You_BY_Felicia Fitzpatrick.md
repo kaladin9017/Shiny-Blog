@@ -2,11 +2,7 @@
   date = "2017-02-16T07:00:00-05:00"
   title = "On This Day: 4 Ways Your #TBTs  Can Motivate Present-You"
   categories = ["Life"]
-  tags = "memories,nostalgia,social media,timehop"
-  author = "Felicia Fitzpatrick"
-  description = "How to use memory lane to your advantage."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

@@ -2,11 +2,7 @@
   date = "2017-03-17T14:00:00-04:00"
   title = "The Shine Outline: What We Loved This Week Mar. 17"
   categories = ["Life"]
-  tags = "Shine Outline,Shine,Shine Squad,We Loved"
-  author = "Colleen Wormsley"
-  description = "ICYMI, here's what we shared this week to help you shine."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

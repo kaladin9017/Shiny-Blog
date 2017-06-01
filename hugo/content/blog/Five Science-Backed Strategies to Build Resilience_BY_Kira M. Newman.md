@@ -2,11 +2,7 @@
   date = "2017-04-12T11:00:00-04:00"
   title = "Five Science-Backed Strategies to Build Resilience"
   categories = ["Life"]
-  tags = "resilience,advice,build,self-compassion"
-  author = "Kira M. Newman"
-  description = "These five strategies backed by science will help you build resilience."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

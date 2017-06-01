@@ -2,11 +2,7 @@
   date = "2016-08-26T08:00:00-04:00"
   title = "3 Ways to Slay Your Fear (And Why We Worry)"
   categories = ["LIFE"]
-  tags = "fear,stress,worry,fearless,scared,positivity,conquer"
-  author = "Christina Blacken"
-  description = "How to push through when your thoughts cause drama."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

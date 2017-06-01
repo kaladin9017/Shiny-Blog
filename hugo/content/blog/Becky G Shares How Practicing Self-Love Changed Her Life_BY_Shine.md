@@ -2,11 +2,7 @@
   date = "2017-02-27T12:00:00-05:00"
   title = "Becky G Shares How Practicing Self-Love Changed Her Life"
   categories = ["life"]
-  tags = "Becky G,Todo Cambio,change,life,Self-love"
-  author = "Shine"
-  description = "Singer Becky G shares the inspiration behind her new single “Todo Cambió,” the positive changes that happened in her life this year, and how she practices self-love."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

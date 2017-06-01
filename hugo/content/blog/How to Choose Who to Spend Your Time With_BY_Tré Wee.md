@@ -2,11 +2,7 @@
   date = "2017-04-05T00:00:00-04:00"
   title = "How to Choose Who to Spend Your Time With"
   categories = ["Life"]
-  tags = "friends,advice,time,friendship,time management"
-  author = "Tré Wee"
-  description = "A simple method for how to preserve and use our time and energy on relationships that matter."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

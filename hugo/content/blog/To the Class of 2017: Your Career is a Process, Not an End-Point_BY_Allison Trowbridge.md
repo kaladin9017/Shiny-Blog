@@ -2,11 +2,7 @@
   date = "2017-05-10T13:00:00-04:00"
   title = "To the Class of 2017: Your Career is a Process, Not an End-Point"
   categories = ["life"]
-  tags = "college grad,vocation,passion,college graduation"
-  author = "Allison Trowbridge"
-  description = "Sometimes, we need to explore our skills in lots of different areas, trusting that someday they’ll weave together as they’re supposed to."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

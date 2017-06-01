@@ -2,11 +2,7 @@
   date = "2016-08-25T08:00:00-04:00"
   title = "Working Young, Bubbly & Female: The Disney Princess Effect"
   categories = ["Work"]
-  tags = "work,bubbly,women,personality,stereotype"
-  author = "Felicia Fitzpatrick"
-  description = "Being bubbly doesn't mean you aren't a badass. Here's how to show 'em why."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

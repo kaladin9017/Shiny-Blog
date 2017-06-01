@@ -2,11 +2,7 @@
   date = "2017-01-30T13:00:00-05:00"
   title = "4 Ways to Turn Your New Idea Into a Reality"
   categories = ["work"]
-  tags = "ideas,advice,brainstorm"
-  author = "Belma McCaffrey"
-  description = "Follow these 4 steps if you have a great idea but \"reality\" gets in the way."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

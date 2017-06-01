@@ -2,11 +2,7 @@
   date = "2017-01-31T08:00:00-05:00"
   title = "How To Stop Comparing Yourself to Others and Start Thriving"
   categories = ["life"]
-  tags = "comparison,authenticity ,judgmental ,fomo"
-  author = "James Berges"
-  description = "Four tips for embracing your authentic self."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

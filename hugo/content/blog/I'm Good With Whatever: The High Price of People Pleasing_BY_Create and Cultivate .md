@@ -2,11 +2,7 @@
   date = "2016-09-29T08:00:00-04:00"
   title = "I'm Good With Whatever: The High Price of People Pleasing"
   categories = ["Life"]
-  tags = "people pleasing,kindness,happiness,self-care"
-  author = "Create and Cultivate "
-  description = "Making others happy shouldn't be at the cost of your own joy."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

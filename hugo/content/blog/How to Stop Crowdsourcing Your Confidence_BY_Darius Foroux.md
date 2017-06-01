@@ -2,11 +2,7 @@
   date = "2017-04-25T07:30:00-04:00"
   title = "How to Stop Crowdsourcing Your Confidence"
   categories = ["Life"]
-  tags = "confidence,social media,validation"
-  author = "Darius Foroux"
-  description = "How to stop crowdsourcing your confidence."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

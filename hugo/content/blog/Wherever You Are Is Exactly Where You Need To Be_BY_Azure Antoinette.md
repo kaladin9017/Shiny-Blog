@@ -2,11 +2,7 @@
   date = "2016-08-23T07:20:00-04:00"
   title = "Wherever You Are Is Exactly Where You Need To Be"
   categories = ["Work"]
-  tags = "social media,self-love,progress,gratitude "
-  author = "Azure Antoinette"
-  description = ""
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

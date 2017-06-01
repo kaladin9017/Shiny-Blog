@@ -2,11 +2,7 @@
   date = "2016-08-30T08:00:00-04:00"
   title = "5 Things I Did to Sober Up From My Busy-ness Addiction"
   categories = ["LIFE"]
-  tags = "productivity ,busy,stress,burnout,overwhelmed"
-  author = "Maya Nahra"
-  description = "Is \"I'm so busy\" becoming your accidental mantra? Here's how to fix that."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

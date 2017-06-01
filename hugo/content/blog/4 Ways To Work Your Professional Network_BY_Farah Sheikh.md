@@ -2,11 +2,7 @@
   date = "2016-11-01T10:00:00-04:00"
   title = "4 Ways To Work Your Professional Network"
   categories = ["Work"]
-  tags = "connection,friends,networking,relationships"
-  author = "Farah Sheikh"
-  description = "Four other tactics that don't involve 'picking someone's brain'."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

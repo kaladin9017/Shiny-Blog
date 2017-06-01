@@ -2,11 +2,7 @@
   date = "2017-04-18T06:00:00-04:00"
   title = "Shine's New Chapter"
   categories = ["life"]
-  tags = "shine,announcement,funding,users"
-  author = "Shine"
-  description = "Shine is excited to announce what's next for the company."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

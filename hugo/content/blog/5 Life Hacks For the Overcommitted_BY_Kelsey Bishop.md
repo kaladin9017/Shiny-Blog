@@ -2,11 +2,7 @@
   date = "2016-09-15T09:00:00-04:00"
   title = "5 Life Hacks For the Overcommitted"
   categories = ["Work"]
-  tags = "busy,work,balance,juggle,organization"
-  author = "Kelsey Bishop"
-  description = "Are you the type of person who likes juggling jobs, side-projects, hobbies and an active social life? This is for you."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

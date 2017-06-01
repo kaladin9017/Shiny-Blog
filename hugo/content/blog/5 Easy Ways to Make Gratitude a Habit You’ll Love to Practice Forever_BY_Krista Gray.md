@@ -2,11 +2,7 @@
   date = "2017-03-16T13:00:00-04:00"
   title = "5 Easy Ways to Make Gratitude a Habit You’ll Love to Practice Forever"
   categories = ["Life"]
-  tags = "gratitude,habit,happier,Advice"
-  author = "Krista Gray"
-  description = "Practicing gratitude can lift your spirits,  help you overcome obstacles, and crush your goals."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

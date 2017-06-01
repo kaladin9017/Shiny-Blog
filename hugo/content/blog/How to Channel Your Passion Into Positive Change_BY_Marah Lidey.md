@@ -2,11 +2,7 @@
   date = "2016-11-14T01:00:00-05:00"
   title = "How to Channel Your Passion Into Positive Change"
   categories = ["Life"]
-  tags = "passion,purpose,fuel,change"
-  author = "Marah Lidey"
-  description = "Once you find what lights your soul on fire, here's how to chase it."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

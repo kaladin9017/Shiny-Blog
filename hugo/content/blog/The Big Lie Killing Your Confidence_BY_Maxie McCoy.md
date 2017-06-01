@@ -2,11 +2,7 @@
   date = "2016-09-25T00:00:00-04:00"
   title = "The Big Lie Killing Your Confidence"
   categories = ["Work"]
-  tags = "confidence ,abilities,skills,limitations "
-  author = "Maxie McCoy"
-  description = "How to unlearn what's stopping you from seeing your own epic-ness."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

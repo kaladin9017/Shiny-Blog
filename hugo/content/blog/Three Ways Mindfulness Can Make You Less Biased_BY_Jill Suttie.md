@@ -2,11 +2,7 @@
   date = "2017-05-24T08:20:00-04:00"
   title = "Three Ways Mindfulness Can Make You Less Biased"
   categories = ["Life"]
-  tags = "negativity ,prejudice,judgmental "
-  author = "Jill Suttie"
-  description = "Yep. Turns out cultivating awareness can make us less judgy."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

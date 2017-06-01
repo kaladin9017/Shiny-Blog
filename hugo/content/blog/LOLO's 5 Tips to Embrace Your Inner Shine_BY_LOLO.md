@@ -2,11 +2,7 @@
   date = "2017-01-30T22:00:00-05:00"
   title = "LOLO's 5 Tips to Embrace Your Inner Shine"
   categories = ["Life"]
-  tags = "LOLO,Shine,Tips,song"
-  author = "LOLO"
-  description = "Singer LOLO shares the inspiration behind her song \"Shine\" and her tips to help others Shine."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

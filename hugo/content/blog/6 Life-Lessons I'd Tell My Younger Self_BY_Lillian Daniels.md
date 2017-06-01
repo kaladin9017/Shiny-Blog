@@ -2,11 +2,7 @@
   date = "2016-08-23T23:50:00-04:00"
   title = "6 Life-Lessons I'd Tell My Younger Self"
   categories = ["Life"]
-  tags = "happiness,intuition ,trust,decisions,advice"
-  author = "Lillian Daniels"
-  description = ""
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

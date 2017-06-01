@@ -2,11 +2,7 @@
   date = "2016-09-01T08:00:00-04:00"
   title = "4 Ways to Coach Yourself Through the Tough Stuff"
   categories = ["LIFE"]
-  tags = "self-talk,positivity,growth mindset,challenges,mindfulness"
-  author = "Caris Thetford"
-  description = "How you coach yourself through obstacles can change the game."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

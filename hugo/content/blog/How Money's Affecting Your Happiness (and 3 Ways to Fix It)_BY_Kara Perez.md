@@ -2,11 +2,7 @@
   date = "2016-08-29T12:00:00-04:00"
   title = "How Money's Affecting Your Happiness (and 3 Ways to Fix It)"
   categories = ["Life"]
-  tags = "finances,money,credit,debt,happiness,financial,wealth,well-being"
-  author = "Kara Perez"
-  description = "Money should be improving your quality of life, not hurting it."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

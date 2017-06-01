@@ -2,11 +2,7 @@
   date = "2016-11-17T07:00:00-05:00"
   title = "6 \"Shoulds\" to Abandon Right Now"
   categories = ["Life"]
-  tags = "power of words,shoulds,mindset,positivity"
-  author = "Create and Cultivate "
-  description = "We should all really stop saying these."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

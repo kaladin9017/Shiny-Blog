@@ -2,11 +2,7 @@
   date = "2017-01-17T14:43:00-05:00"
   title = "Why *JUST* Is the Most Unfair Word"
   categories = ["work"]
-  tags = "confidence,advice,work"
-  author = "Create and Cultivate "
-  description = "Here are the 3 scenarios where we tend to use “just” -- and not doing ourselves any justice at all."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

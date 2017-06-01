@@ -2,11 +2,7 @@
   date = "2017-04-14T13:00:00-04:00"
   title = "5 Things To Do When You Feel Like Life is Getting Out of Control"
   categories = ["Life"]
-  tags = "out of control,advice,take back your life,stress"
-  author = "Way Up"
-  description = "These 5 strategies will help you when you feel like life is getting out of control."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

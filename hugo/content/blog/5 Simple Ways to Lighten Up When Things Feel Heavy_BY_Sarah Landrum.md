@@ -2,11 +2,7 @@
   date = "2016-12-23T08:00:00-05:00"
   title = "5 Simple Ways to Lighten Up When Things Feel Heavy"
   categories = ["Life"]
-  tags = "stress,burnout,laughter,playful"
-  author = "Sarah Landrum"
-  description = "Take some of the weight off your shoulders with these tips."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

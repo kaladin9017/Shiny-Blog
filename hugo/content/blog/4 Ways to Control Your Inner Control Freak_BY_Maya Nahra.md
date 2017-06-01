@@ -2,11 +2,7 @@
   date = "2016-10-11T08:00:00-04:00"
   title = "4 Ways to Control Your Inner Control Freak"
   categories = ["Life"]
-  tags = "control ,uncertainty ,chaos,unknown "
-  author = "Maya Nahra"
-  description = "Learn how letting it go can lead to major emotional freedom."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

@@ -2,11 +2,7 @@
   date = "2016-12-23T08:00:00-05:00"
   title = "6 Ways to Lighten Up When Things Feel Heavy"
   categories = ["Life"]
-  tags = "holiday,stress,burnout,christmas"
-  author = "Sarah Landrum"
-  description = "Curb holiday stress with these research-backed tips."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

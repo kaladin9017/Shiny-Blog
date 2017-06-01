@@ -2,11 +2,7 @@
   date = "2017-05-04T09:00:00-04:00"
   title = "3 Ways to Break Free From Being \"Too Busy\""
   categories = ["life"]
-  tags = "busy,advice,tips,brain fog"
-  author = "Erica Joy Dunn"
-  description = "If you suffer from \"busy-itis\" follow these 3 ways to break free from being \"too busy.\""
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 

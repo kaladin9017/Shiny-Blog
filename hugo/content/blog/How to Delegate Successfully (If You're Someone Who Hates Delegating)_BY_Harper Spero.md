@@ -2,11 +2,7 @@
   date = "2017-02-06T09:00:00-05:00"
   title = "How to Delegate Successfully (If You're Someone Who Hates Delegating)"
   categories = ["Work"]
-  tags = "entrepreneur,work,delegate,team"
-  author = "Harper Spero"
-  description = "Get in charge of your work-life balance with these tips about delegating to other members of your team and letting yourself destress."
-  draft = false
-  type = "post"
+  tags = ["example", "Lorem Ipsum"]
 +++
 
 
