@@ -8,8 +8,8 @@ const moment = require('moment');
 
 const generatePostMarkdown = require('./helper/generatePostMarkdown');
 
-const SPACE_ID = "awpxl2koull4";
-const ACCESS_TOKEN = "76d3e2e6deab94079609a2cc7d146b47acd2495e16ea3f09143d2f1859e5ec8b";
+const SPACE_ID = "";
+const ACCESS_TOKEN = "";
 
 const client = contentful.createClient({
   // This is the space ID. Like a project folder in Contentful terms
